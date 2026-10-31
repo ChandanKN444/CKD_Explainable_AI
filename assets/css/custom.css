@@ -1,0 +1,64 @@
+/* Clinical & Explainable AI Modern Medical Dashboard Styles */
+
+.main-header {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #1A365D;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #2B6CB0;
+    margin-bottom: 20px;
+}
+
+.metric-card {
+    background-color: #F7FAFC;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.metric-value {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2B6CB0;
+}
+
+.metric-label {
+    font-size: 13px;
+    color: #4A5568;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.status-badge-ckd {
+    background-color: #FED7D7;
+    color: #9B2C2C;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 16px;
+    display: inline-block;
+    border: 1px solid #FEB2B2;
+}
+
+.status-badge-healthy {
+    background-color: #C6F6D5;
+    color: #22543D;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 16px;
+    display: inline-block;
+    border: 1px solid #9AE6B4;
+}
+
+.clinical-tip {
+    background-color: #EBF8FF;
+    border-left: 4px solid #3182CE;
+    padding: 12px;
+    border-radius: 4px;
+    color: #2B6CB0;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

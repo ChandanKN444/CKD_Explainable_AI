@@ -1,0 +1,6 @@
+patient_id,name,age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wbcc,rbcc,htn,dm,cad,appet,pe,ane
+PT-101,Johnathan Davis,35,70,1.025,0,0,normal,normal,notpresent,notpresent,95,24,0.8,140,4.2,15.5,48,7200,5.2,no,no,no,good,no,no
+PT-102,Maria Garcia,58,85,1.015,2,1,normal,normal,notpresent,notpresent,155,52,1.8,135,4.7,10.8,33,8800,3.8,yes,yes,no,good,no,no
+PT-103,Aiden Patel,42,80,1.020,0,0,normal,normal,notpresent,notpresent,102,28,0.9,142,4.0,16.1,49,6800,5.4,no,no,no,good,no,no
+PT-104,Evelyn Wright,68,95,1.010,4,3,abnormal,abnormal,present,present,230,115,5.8,129,5.8,7.9,24,12400,2.9,yes,yes,yes,poor,yes,yes
+PT-105,David Kim,51,80,1.015,1,0,normal,normal,notpresent,notpresent,120,44,1.4,138,4.5,12.2,36,7900,4.3,yes,no,no,good,no,no
